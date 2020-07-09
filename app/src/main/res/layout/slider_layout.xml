@@ -11,6 +11,7 @@
         android:id="@+id/sliderImageView"
         android:layout_width="match_parent"
         android:layout_height="200dp"
+
         tools:srcCompat="@drawable/slider1"
         android:scaleType="center"
         android:adjustViewBounds="true"
