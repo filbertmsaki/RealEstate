@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Real Estate</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <string-array name="estate_list">
+        <item>Resale Homes</item>
+        <item>WearHomes</item>
+        <item>Hospital</item>
+        <item>Offices </item>
+        <item>Farms</item>
+        <item>Shopping Centre</item>
+        <item>Ranches</item>
+    </string-array>
+    <string-array name="description">
+        <item>This is the Resale House description</item>
+        <item>This is the Warehouse description</item>
+        <item>This is the Hospital description</item>
+        <item>This is the Office description</item>
+        <item>This is the Farm description</item>
+        <item>This is the Shopping description</item>
+        <item>This is the Ranches description</item>
+    </string-array>
+
+</resources>
